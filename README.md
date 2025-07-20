@@ -25,8 +25,7 @@ Responsive design optimized for all screen sizes
 Modern UI with glassmorphism and neon glow styling
 
 🌐 Live Demo
-🔗 View Project
-(Replace with your actual live URL)
+
 
 👨‍💻 Author
 Deepak Raj
