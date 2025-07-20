@@ -29,5 +29,4 @@ Modern UI with glassmorphism and neon glow styling
 
 👨‍💻 Author
 Deepak Raj
-Frontend Developer
 
